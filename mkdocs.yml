@@ -1,0 +1,10 @@
+site_name: DROP
+nav:
+    - Getting started: index.md
+    - Architecture: arch.md
+    - Tools: tools.md
+    - Plugins: plugins.md
+    - Examples: examples.md
+    - FAQs: facs.md
+theme: readthedocs
+
