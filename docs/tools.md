@@ -1,11 +1,9 @@
-# Imitamina dixit ignem animisque me negare sibi
+# CLI tools
 
-## Dederitis quotiens frustra
+## drop-cli
 
-Lorem markdownum virgae. Deus pars, nil caede si labefactaque inter, pisces,
-esse Phocis odoro, petitis, sua Hectora corpora. Spolioque terga terrificam
-truncum: eundi vidit thalamique illis ora: Mithridateisque nomina inde sic
-cornua, causamque, meae.
+drop-cli — command line for managing a DROP
+
 
     dock(optical(sound));
     mpeg_ripping += rfid_and;

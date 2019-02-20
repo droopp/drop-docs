@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Welcome to DROP (Distributed Reliable Operation Platform)
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+DROP - Serverless Functions Made Simple
 
-## Commands
+Any process can be packaged as a function enabling you to consume a range of any events or other functions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Run code without thinking about servers.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Installing DROP
+## Prerequisites
+
+- CentOS 7.3 or later, for the 64-bit x86_64 architecture.
+- Yum package management application installed.
+- Root or sudo access to the system.
+
+## Installation from RPM packages
+
+curl https://dropfaas.com/RPMS/drop-bootstrap.sh | sudo sh
+
+
+
+
+
