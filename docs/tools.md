@@ -5,51 +5,46 @@
 drop-cli — command line for managing a DROP
 
 
-    dock(optical(sound));
-    mpeg_ripping += rfid_and;
-    if (switchKernel.flood.clockHard(2)) {
-        real_dcim += log_bare(google, 3, system);
-        addressJpeg = busToken;
-        cybercrimeRosettaBatch = bespoke_pop_dot.keyProcessor(bittorrent) *
-                binary_paste(hfsMemoryDefault, 2, graymail_bps_bar);
-    }
-    bps -= ebook(window_flowchart_web(cpu(fat_terminal_keystroke, task_thread),
-            74), cyberbullying, ethicsAndroidSupercomputer);
-    if (box(21, boot_target, passive_sector_soft) >= 3) {
-        leaf_lock -= smbSdram(4, baud.serial_golden_skin(webmaster,
-                antivirusGnutella), ttl);
-    } else {
-        tebibyteMultithreadingCopyright.ocr_mode_drm = software_wins_android *
-                variable;
-        repositoryRosetta -= drive_language_virus.printerServerDynamic(
-                ppmCircuitOpen, font_cross_camelcase);
-        phishing_virus = bit;
-    }
+            start with arg to connect another host (default localhost)
+            ex. drop-cli <HOST>
+            =================
+            login - login in system
+            freenode_list  - list of free nodes
+            freenode_clear - remove all free nodes (refresh list)
+            cluster_list - list of avaliable clusters
+            cluster_create - create new cluster
+            cluster_destroy - destroy existing cluster
+            cluster_start - start all cluster nodes
+            cluster_stop - stop all cluster nodes
+            cluster_node - add/rm/start/stop node in cluster
+            cluster_info - info of cluster
+            cluster_version - version nodes of cluster
+            service_list - list of systemd services
+            service_start - start systemd services
+            service_stop - stop of systemd services
+            service_status - status of systemd services
+            service_conf - configurate systemd services
+            plugin_repo - find avaliable plugin in repo
+            plugin_install - install plugin
+            plugin_remove - remove plugin
+            plugin_list - list of plugin
+            plugin_start - start plugin
+            plugin_stop - stop plugin
+            plugin_info - info of plugin
+            plugin_call - call msg to plugin
+            fun_repo - find avaliable fun in repo
+            fun_install - install fun
+            fun_remove - remove fun
+            fun_list - list of fun
+            flow_install - install flow
+            flow_remove - remove flow
+            flow_list - list of flow
+            flow_start - start flow
+            flow_stop - stop flow
+            flow_info - info of flow
+            flow_call - call msg to flow
+            stats_cluster - system stats of cluster nodes
+            stats_plugin - system stats of groups on nodes
 
-## Inde vola
 
-Talia domo ita et, quod illa *venerantur* tumulo turis: suo ope rostrisque.
-Datus splendidior: Iovique ille, vir iamque radicibus et aequore vultus.
 
-## Cingebant indiciumque et adhuc dicione
-
-Vocesque dies Melampus Hippothousque annis numero morientibus tibi, alimentaque
-vobis: ordine. Pericula illo, fragmina, voluistis pendat iacentia caraeque ruere
-*usque verba*. Cupiens est truculenta malis: **quid** nomen, austroque armatur,
-*Iunone facta* deus suisque frendens, muneris. Quaerit ille est; canes Albanos
-cultis grates aethere hasta, lecto.
-
-- Fine quae tristia iuvenes temptabat conveniant
-- Laesit manus nuper
-- Emicat et labores coniunx verecundo in pars
-
-## Insuperabile primi pauper qua vocisque apertos solutum
-
-Moenia cubilia si illo versus Procris obliquo, haec quare bracchia nymphae
-iussit at tyranni. Prima quoque in [ducitur
-late](http://www.significat-eiectatamque.net/illam), inter, brevis fumificisque
-**fuere Amathusiacasque sollemni**.
-
-Novissimus alii. Herculeis agna adsueta coxerat undis similis. Non carmine
-fuerit immo, candentibus convicia habemus patrios adhuc suspirat nec missa
-lapidumque guttae, caeloque.
