@@ -12,10 +12,10 @@ Cluster is all shared machine resources (nodes)
 Nodes are resources  of machines with the DROP installed.
 Can be combined into groups (Namespaces) on the basis of - security, resources, scheduler ..
 
-## Namespace 
+## Namespace
 
-Namespace is a logical group that includes one or more nodes. 
-After creation, nodes join together within this group. 
+Namespace is a logical group that includes one or more nodes.
+After creation, nodes join together within this group.
 Nodes can move between groups without downtime.
 
 Each namespace has:
@@ -29,7 +29,7 @@ All administrative commands can be executed within one namespace
 
 ## Services
 
-Services - services external to the platform (systemd services) that can be 
+Services - services external to the platform (systemd services) that can be
 launched and accompanied by the platform.
 
 Within the namespace, you can set the number of required services that will be maintained in the desired state and number in the event of nodes falling out or reconfiguration
@@ -76,20 +76,20 @@ Actually, this is the same atomic unit of calculation. It can be a system (for e
           msg = read()
           if not msg:
               break
-    
+
           log("start working..")
           log("get message: " + msg)
-    
+
           resp = "{}".format(msg)
-    
+
           send(resp)
-    
+
           log("message send: {}".format(resp))
-    
-    
+
+
     if __name__ == "__main__":
       main(sys.argv[1])
-    
+
 
 ## Pool
 
@@ -107,8 +107,8 @@ Registered in a distributed environment by name
 
 ## Flow
 
-Flow is a computational function declaration (YAML), or a certain route / subscription script, or execution of instruction sets. 
-One flow can have multiple scenarios. 
+Flow is a computational function declaration (YAML), or a certain route / subscription script, or execution of instruction sets.
+One flow can have multiple scenarios.
 For example, pool start scripts, strategies for subscribing to other pools, stopping the pool.
 
 

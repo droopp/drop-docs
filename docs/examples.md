@@ -4,7 +4,7 @@
 
 # Examples of DROP functions
 
-### 1. Create function 
+### 1. Create function
 
 ### Python func example
 

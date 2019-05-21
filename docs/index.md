@@ -11,7 +11,7 @@
     "   \:\/:/  /     \:\~~\        \:\/:/  /     \:\  \    "
     "    \::/  /       \:\__\        \::/  /       \:\__\   "
     "     \/__/         \/__/         \/__/         \/__/   "
-    " 
+    "                                                       "
 
 
 DROP - Serverless Functions Made Simple
@@ -51,21 +51,21 @@ you need configure name of inerface
 
 eth1 - example name of network interface
 
-By default node will be used default network interface 
+By default node will be used default network interface
 
 
 ### Declare nodes (Optional)
 
-If your network not support multicast you need declare your nodes 
- 
-For example 
+If your network not support multicast you need declare your nodes
+
+For example
 
     sudo echo '192.168.50.4
                192.168.50.5
                192.168.50.6' > /var/lib/drop/drop-hosts
 
 
-By default nodes will declare self by multicast 
+By default nodes will declare self by multicast
 
 
 ## Linux system optimisation (Optional)
@@ -73,7 +73,7 @@ By default nodes will declare self by multicast
 In production you need tune linux parameters for better performance
 
 
-     ulimit -n 
+     ulimit -n
      vm.swappiness
      vm.vfs_cache_pressure
      vm.dirty_ratio
