@@ -32,7 +32,7 @@ Run code without thinking about servers.
 ## Installation from Vagrantfile (local)
 
 
-    curl -O https://raw.githubusercontent.com/droopp/vagrant/master/Vagrantfile .
+    curl -O https://raw.githubusercontent.com/droopp/vagrant/master/Vagrantfile
     vagrant up
 
 ## Installation from RPM packages
@@ -47,7 +47,7 @@ Run code without thinking about servers.
 If you have more than one network interface and don't want to use default interface,
 you need configure name of inerface
 
-    sudo echo 'export DROP_IFACE=eth1' >> /home/drop-core/.bashrc
+    echo 'export DROP_IFACE=eth1' | tee -a /home/drop-core/.bashrc
 
 eth1 - example name of network interface
 
@@ -60,15 +60,15 @@ If your network not support multicast you need declare your nodes
 
 For example
 
-    sudo echo '192.168.50.4
-               192.168.50.5
-               192.168.50.6' > /var/lib/drop/drop-hosts
+    echo '192.168.50.4
+          192.168.50.5
+          192.168.50.6' | sudo tee /var/lib/drop/drop-hosts
 
 
 By default nodes will declare self by multicast
 
 
-## Linux system optimisation (Optional)
+## Linux system tuning (Optional)
 
 In production you need tune linux parameters for better performance
 
@@ -100,7 +100,3 @@ In production you need tune linux parameters for better performance
      net.core.wmem_default
      net.ipv4.tcp_rmem
      net.ipv4.tcp_wmem
-
-
-
-

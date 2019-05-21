@@ -5,7 +5,6 @@ nav:
     - Tools: tools.md
     - Plugins: plugins.md
     - Examples: examples.md
-    - FAQs: facs.md
-    - Totorials: tutor.md
+    - FAQ: faq.md
+    - Tutorials: tutor.md
 theme: readthedocs
-
